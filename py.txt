@@ -1,0 +1,3 @@
+reading the content by the python program 
+line1: my self jagadeshwar.i am purusing b.tech 3rd year in annmarcharya universty 
+line2: this is the program of python code
